@@ -1,2 +1,2 @@
 # Finanzas
-Riesgo incertidumbre y finanzas: espacio para la práctica y la teoría de las finanzas en la economía 
+Notas teóricas de finanzas junto a apliaciones prácticas hechas con R en un enotorno de JupyterNotebook. 
